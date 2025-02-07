@@ -1,10 +1,12 @@
 # bare-server-go
 
-heart emoji
+i fix
 
-go build ./server
+go mod tidy
 
-./server --help
+go build ./cmd/bare-server-go
+
+./bare-server-go
 
 # Credits
 
