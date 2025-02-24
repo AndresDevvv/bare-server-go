@@ -1,0 +1,1 @@
+web: ./bare-server-go
